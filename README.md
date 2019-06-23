@@ -3,7 +3,7 @@
 Besides the automatically generated cmd, ps and ubuntu I have added:
 
 - Git bash
-- Anaconda
+- Anaconda 3 prompt
 
 Quick script to copy `profiles.json` from this repo to the location in your machine:
 
