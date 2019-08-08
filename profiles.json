@@ -278,7 +278,7 @@
             "acrylicOpacity" : 0.75,
             "closeOnExit" : true,
             "colorScheme" : "Campbell",
-            "commandline" : "cmd.exe /k \"\"\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\Common7\\Tools\\VsDevCmd.bat\"\"\"",
+            "commandline" : "cmd.exe /k \"C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\Common7\\Tools\\VsDevCmd.bat\"",
             "cursorColor" : "#FFFFFF",
             "cursorShape" : "bar",
             "fontFace" : "Consolas",
